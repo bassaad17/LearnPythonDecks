@@ -1,1 +1,0 @@
-Hello and Welcome to Learn Python Decks GitHub Page containig materials related to Python3 Series 101 - The Basics.
